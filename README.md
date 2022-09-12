@@ -10,6 +10,9 @@ The Flashbots MEV data available on Dune starts on August 28 2020.
 
 The live data analysis can be found [here](https://dune.com/ivanmolto/mev-flashbots-unleashed)
 
+Video [here](https://youtu.be/eox_0J11WRg) but data flowing is worth a thousand words.
+Happy to pitch at the finale...
+
 ## About me (Ivan Molto)
 
 I am a Blockchain Engineer and Data Analyst with +20 years experience in the Gaming, Media, and Music industries.
