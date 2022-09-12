@@ -3,7 +3,8 @@
 ## Intro
 A comprehensive data analysis of Flashbots MEV as a submission for the [Encode](https://www.encode.club) x [Wintermute](https://www.wintermute.com) hackathon with [Flashbots](https://www.flashbots.net/).
 
-The data analysis has been done using the datasets provided by Flashbots to [Dune](https://dune.com) (formerly Dune Analytics) and deep dive on MEV extracted, miner payments, MEV transactions, arbitrages, liquidations, sandwiches (including MEV leaderboards)
+The data analysis has been done using the datasets provided by Flashbots to [Dune](https://dune.com) (formerly Dune Analytics) and deep dive on MEV extracted, miner payments, MEV transactions, arbitrages, liquidations, sandwiches (including MEV leaderboards).
+The Flashbots MEV data available on Dune starts on August 28 2020.
 
 ## Live data analysis
 
@@ -17,7 +18,9 @@ I built Android/iOS apps and games hitting +100 million installs.
 
 I am proud to be part of the first real tones created.
 
-I am a veteran Encode hacker who have won several prizes at blockchain hackathons (at Encode and Gitcoin mainly)
+I am a veteran Encode hacker who have won several prizes at blockchain hackathons (at Encode and Gitcoin mainly).
+
+Check my [LinkedIn profile](https://www.linkedin.com/in/ivanmolto)
 
 ## Code
 
